@@ -10,7 +10,7 @@
 - 😄 Pronouns: Her
 
 
-[![sados45's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs?username=sados45&show_icons=true&locale=en&layout=compact
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sados45)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
