@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Projects
-- 📫 How to reach me: sados45@gmailcom
+- 📫 How to reach me: sados45@gmail.com
 - 😄 Pronouns: Her
 
 
