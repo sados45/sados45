@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning React.js,SQL,Node.js
+- 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Projects
+- 📫 How to reach me: sados45@gmailcom
+- 😄 Pronouns: Her
+
+
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sados45)](https://github.com/ryo-ma/github-profile-trophy)
