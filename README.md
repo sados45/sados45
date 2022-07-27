@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+<p>
 **sados45/sados45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,3 +19,4 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sados45)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
