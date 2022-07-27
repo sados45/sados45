@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
-[![willianrod's sados45 stats](https://github-readme-stats.vercel.app/api/wakatime?username=sados45)](https://github.com/sados45/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sados45)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
