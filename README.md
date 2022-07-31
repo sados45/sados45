@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Projects
 - 📫 How to reach me: sados45@gmail.com
-- 😄 Pronouns: Her
+- 😄 Pronouns: His
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
