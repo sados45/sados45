@@ -1,8 +1,8 @@
 <h1> Hi I'm Sados45 👋 </h1>
 <p>
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning React.js,SQL,Node.js
+- 🔭 I’m currently working on Software Test Automation.
+- 🌱 I’m currently learning Selenium, JUnit, Test NG, Cucumber, API. 
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Projects
 - 📫 How to reach me: sados45@gmail.com
