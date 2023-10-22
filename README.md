@@ -5,6 +5,8 @@
 
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&width=1000&lines=Sedat+BAGIRGAN;Software+Test+Engineer)](https://git.io/typing-svg)
 
+
+
 ### 🔭 I'm Full Stack Automation Engineer || ISTQB® CTFL || Agile/Scrum || Java || Javascript || HTML5 || CSS || Bootstrap || React || Lambda || SQL || JDBC || Selenium || JUnit || TestNG || API || SDLC || Cucumber || Jira Xray || Jenkins 
 ### 🌱 I am skilled in web automation using Selenium( Junit-TestNG-Cucumber),Appıum(Android-ios).
 
