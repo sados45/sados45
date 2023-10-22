@@ -1,17 +1,19 @@
-<h1> Hi I'm Sados45 👋 </h1>
 <p>
+<img src="github-contribution-grid-snake.gif" width="auto">
+<h1 align="center">Hi 👋, I'm Sedat BAGIRGAN</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sados45&label=Profile%20views&color=0e75b6&style=flat" alt="sados45" /> </p>
+<img align="right" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🔭 I’m currently working on Software Test Automation.
-- 🌱 I’m currently learning Selenium, JUnit, Test NG, Cucumber, API. 
-- 👯 I’m looking to collaborate on Projects
-- 💬 Ask me about Projects
-- 📫 How to reach me: sados45@gmail.com
-- 😄 Pronouns: His
+- 🌱 I’m currently learning **Cypress**
+
+- 💬Full Stack QA Automation Engineer || ISTQB® CTFL || Agile/Scrum || Java || Javascript || HTML5 || CSS || Bootstrap || React ||  Lambda || SQL || JDBC || Selenium || JUnit || TestNG || API || SDLC || Cucumber ||  Jira Xray || Jenkins 
+- 📫 How to reach me **sados45@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sedat-bagirgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedat-bagirgan" height="30" width="40" /></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sados45)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sados45)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
