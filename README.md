@@ -63,13 +63,15 @@
 
  </br>
 
-![SmtOzcelik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
+![sados45's GitHub stats](https://github-readme-stats.vercel.app/api?username=sados45&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SmtOzcelik&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&card_width=200)](https://git.io/streak-stats)
 
 
 </br>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b929d3c7-e202-4e0e-9db5-88deba5c38fb/1569cea8-904b-4fa5-bf04-2112e445b411.png" /></a>
 
+</br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sados45&bg_color=000000&color=008cb4&line=0061ff&point=94e3fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
